@@ -20,10 +20,15 @@ Startup founders
 🚀 Key Features
 
 ✅ Upload .CSV or .XLSX files
+
 ✅ Supports file sizes up to 200MB
+
 ✅ Clean, responsive user interface
+
 ✅ Drag & drop file upload
+
 ✅ Real-time preview and basic analysis (if implemented)
+
 ✅ Hosted on Streamlit Cloud
 
 🔧 How It Works
